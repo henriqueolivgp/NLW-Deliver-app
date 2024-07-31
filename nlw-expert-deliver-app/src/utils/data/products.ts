@@ -5,7 +5,7 @@ const MENU = [
       {
         id: "1",
         title: "X-React",
-        price: 24.9,
+        price: 4.9,
         description:
           "Um hamburger tão bonito que me deu fome enquanto eu fazia esse layout para o projeto...",
         cover: require("../../assets/products/cover/1.png"),
@@ -29,7 +29,7 @@ const MENU = [
       {
         id: "2",
         title: "X-JavaScript",
-        price: 34.9,
+        price: 4.9,
         description:
           "Os ingredientes desse hambúrguer mudam toda semana, então você sempre terá uma surpresa...",
         cover: require("../../assets/products/cover/2.png"),
@@ -48,7 +48,7 @@ const MENU = [
       {
         id: "3",
         title: "X-Cobol",
-        price: 32.7,
+        price: 8.7,
         description:
           "Aquele hambúrguer que não podemos tirar do cardápio devido aos clientes mais antigos da hamburgueria...",
         cover: require("../../assets/products/cover/3.png"),
@@ -67,7 +67,7 @@ const MENU = [
       {
         id: "4",
         title: "X-Tailwind",
-        price: 29.9,
+        price: 9.9,
         description:
           "Aquele que você não gosta de primeira, mas depois fica viciado e não consegue mais largar...",
         cover: require("../../assets/products/cover/4.png"),
@@ -91,7 +91,7 @@ const MENU = [
       {
         id: "5",
         title: "Sorvete com Brownie",
-        price: 18.9,
+        price: 2.9,
         description:
           "Uma sobremesa deliciosa para saborear. Escolha o sorvete e a calda que desejar...",
         cover: require("../../assets/products/cover/5.png"),
@@ -105,7 +105,7 @@ const MENU = [
       {
         id: "6",
         title: "Cupcake",
-        price: 22.9,
+        price: 2.9,
         description:
           "Um delicioso Cupcake para adoçar. Escolha o sabor que você gosta...",
         cover: require("../../assets/products/cover/6.png"),
@@ -120,7 +120,7 @@ const MENU = [
       {
         id: "7",
         title: "Hmmm, coquinha!",
-        price: 6.9,
+        price: 1.9,
         thumbnail: require("../../assets/products/thumbnail/7.png"),
         cover: require("../../assets/products/cover/7.png"),
         description:
