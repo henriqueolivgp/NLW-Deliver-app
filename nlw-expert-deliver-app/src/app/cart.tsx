@@ -100,7 +100,7 @@ export default function Cart() {
             />
             <Input
               className="top-4"
-              placeholder="insira o numero de telemovel com o codigo do pais como por exemplo 351"
+              placeholder="insira o numero de telemovel com o codigo do pais como por exemplo 351 sem o + "
               onChangeText={setPhoneNumber}
             />
 
